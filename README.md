@@ -1,9 +1,16 @@
-# nuxt-tailwind-index
+## 🚀 Quick start
 
-## Build Setup
+** prerequisites **
+Make sure you have Node installed. Check it using,
+
+```shell=
+node -v
+```
 
 ```bash
-# install dependencies
+# set up project locally
+$ git clone https://github.com/dev-catalyst/nuxt-tailwind-task.git nuxt-tailwind-task
+$ cd nuxt-tailwind-task/
 $ npm install
 
 # serve with hot reload at localhost:3000
